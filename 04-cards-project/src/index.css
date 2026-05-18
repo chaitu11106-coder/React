@@ -1,0 +1,33 @@
+.parent{
+  height: 100vh;
+  width:100%;
+  background-color:#111;
+  padding:30px;
+
+}
+.card{
+  height:400px;
+  width:300px;
+  background-color:#fff;
+  border-radius:30px;
+  padding:30px;
+}
+
+.card .top{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+
+}
+
+.top img{
+  height:30px;
+  border:1px;
+  padding:2px;
+}
+
+.top{
+  display :flex;
+  
+
+}
